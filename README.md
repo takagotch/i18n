@@ -4,6 +4,8 @@ https://github.com/svenfuchs/i18n
 
 https://github.com/svenfuchs/i18n/wiki/Resources
 
+https://railsguides.jp/i18n.html
+
 ```
 gem install i18n
 
